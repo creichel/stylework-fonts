@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'Raleway';
+  src: url('Raleway-ExtraLight.eot'); /* IE9 Compat Modes */
+  src: url('Raleway-ExtraLight.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('Raleway-ExtraLight.woff') format('woff'), /* Modern Browsers */
+       url('Raleway-ExtraLight.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('Raleway-ExtraLight.svg#e01e70f91703ec773b0480a1714e8ebd') format('svg'); /* Legacy iOS */
+       
+  font-style:   normal;
+  font-weight:  200;
+}
+
